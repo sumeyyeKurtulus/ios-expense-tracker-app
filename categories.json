@@ -1,0 +1,95 @@
+{
+    "expenseCategories": [
+      {
+        "category": "Housing",
+        "subcategories": [
+          "Rent/Mortgage",
+          "Utilities",
+          "Home Maintenance"
+        ],
+        "description": "Manage expenses related to your living space, including rent or mortgage payments, utility bills, and maintenance costs."
+      },
+      {
+        "category": "Transportation",
+        "subcategories": [
+          "Public Transit",
+          "Gas/Fuel",
+          "Maintenance"
+        ],
+        "description": "Track costs associated with commuting, whether it's through public transportation or private vehicles, including fuel and maintenance."
+      },
+      {
+        "category": "Food and Dining",
+        "subcategories": [
+          "Groceries",
+          "Restaurants",
+          "Takeout/Delivery"
+        ],
+        "description": "Monitor spending on food items, groceries, dining out, and ordering takeout or delivery."
+      },
+      {
+        "category": "Entertainment",
+        "subcategories": [
+          "Movies",
+          "Events/Concerts",
+          "Subscriptions"
+        ],
+        "description": "Record expenses related to entertainment, such as movie tickets, concert tickets, or subscription services."
+      },
+      {
+        "category": "Health and Fitness",
+        "subcategories": [
+          "Gym Memberships",
+          "Medical Expenses",
+          "Wellness Products"
+        ],
+        "description": "Keep track of health-related expenses, including gym memberships, medical bills, and wellness products."
+      },
+      {
+        "category": "Shopping",
+        "subcategories": [
+          "Clothing",
+          "Electronics",
+          "Gifts"
+        ],
+        "description": "Monitor spending on shopping, whether it's for clothing, electronics, or gifts for others."
+      },
+      {
+        "category": "Education",
+        "subcategories": [
+          "Tuition",
+          "Books/Supplies",
+          "Courses/Workshops"
+        ],
+        "description": "Record educational expenses, such as tuition fees, textbooks, and additional courses or workshops."
+      },
+      {
+        "category": "Travel",
+        "subcategories": [
+          "Flights",
+          "Accommodation",
+          "Transportation (within destination)"
+        ],
+        "description": "Track expenses related to travel, including flights, accommodation, and local transportation."
+      },
+      {
+        "category": "Personal Care",
+        "subcategories": [
+          "Haircuts",
+          "Skincare",
+          "Toiletries"
+        ],
+        "description": "Manage expenses related to personal care, including grooming, skincare products, and toiletries."
+      },
+      {
+        "category": "Miscellaneous",
+        "subcategories": [
+          "Fees/Charges",
+          "Donations",
+          "Miscellaneous Expenses"
+        ],
+        "description": "Capture any miscellaneous expenses that don't fit into specific categories."
+      }
+    ]
+  }
+  
